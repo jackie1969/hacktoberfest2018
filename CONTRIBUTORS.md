@@ -864,3 +864,8 @@ Place: Horsens, Denmark
 About: Software Engineer student
 Programming Language: Python, Javascript, JAVA (soon), C# 
 
+Name: [Jackie](https://github.com/jackie1969)
+place: Pattaya, Thailand
+About: Student
+Programming Language: Javascript,C,Python
+Email: jjjjj19699@hotmail.com
